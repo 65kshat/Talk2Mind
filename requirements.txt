@@ -1,0 +1,15 @@
+streamlit
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+opencv-python
+Pillow
+matplotlib
+seaborn
+librosa
+sounddevice
+soundfile
+tqdm
+joblib
